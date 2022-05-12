@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS weeb_tea_db;
+
+CREATE DATABASE weeb_tea_db;
